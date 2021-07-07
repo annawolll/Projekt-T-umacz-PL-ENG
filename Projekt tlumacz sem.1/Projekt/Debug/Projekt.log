@@ -1,0 +1,6 @@
+﻿  main.cpp
+  projekt.cpp
+C:\Users\User\Desktop\visual programy\Projekt\Projekt\projekt.cpp(119,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+C:\Users\User\Desktop\visual programy\Projekt\Projekt\projekt.cpp(153,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Projekt.vcxproj -> C:\Users\User\Desktop\visual programy\Projekt\Debug\Projekt.exe
